@@ -1,25 +1,25 @@
 <table align="center"><tr><td align="center" width="9999">
 <img src="/img/dataeng.jpg" align="center" width="400" alt="Project icon">
 
-# Roadmap de Engenharia de Dados
+# ![](img/roadmap32.png) Roadmap de Engenharia de Dados
 
 Este repositório foi desenvolvido como um compilado de todas as skills e conteúdos que julguei interessantes de serem consumidas para aprimorar meu conhecimento em engenharia de dados. Todo conteúdo que está aqui foi formado de acordo com minha vivência nessa área, pode ser acrescentado da visão de outras pessoas que queiram colaborar. Com esse conteúdo viso me organizar, me desafiar e ajudar outras pessoas também.
 
 Sugestões são muito bem vindas!
 </td></tr></table>
 
-## Tabela de Conteúdo
-- [Roadmap de Engenharia de Dados](#roadmap-de-engenharia-de-dados)
-  - [Tabela de Conteúdo](#tabela-de-conteúdo)
-  - [Links e Dicas Úteis](#links-e-dicas-úteis)
-  - [⚙️ Skills](#️-skills)
-  - [📃 Artigos](#-artigos)
+## 🎯 Índice de Conteúdo
+- [ Roadmap de Engenharia de Dados](#-roadmap-de-engenharia-de-dados)
+  - [🎯 Índice de Conteúdo](#-índice-de-conteúdo)
+  - [📎 Links e Dicas Úteis](#-links-e-dicas-úteis)
+  - [🛠️ Skills](#️-skills)
+  - [📰 Artigos](#-artigos)
   - [📖 Livros para ler](#-livros-para-ler)
-  - [Cursos para fazer](#cursos-para-fazer)
+  - [🎓 Cursos para fazer](#-cursos-para-fazer)
   - [📍 Onde me encontrar](#-onde-me-encontrar)
 
 ***
-## Links e Dicas Úteis
+## 📎 Links e Dicas Úteis
 
 Primeiro de tudo é importante se entender o que um engenheiro de dados faz, onde ele se encaixa no mercado e quais necessidades ele supre. Portanto eu recomendo os seguintes conteúdos antes de qualquer interação com o restante:
 
@@ -36,7 +36,7 @@ Infelizmente não existem tantos conteúdos em português sobre isso ainda, port
 Aproveite para exercitar sua capacidade de lidar com vários cenários de erro e criar ações para contorná-los.
 
 ***
-## ⚙️ Skills
+## 🛠️ Skills
 
 O básico para uso geral:
 
@@ -64,7 +64,7 @@ Habilidades mais específicas:
 | Cloud | AWS <br> Azure <br> GCP | [AWS - Fundamentos](https://medium.com/age-of-awareness/aws-fundamentals-beginners-guide-ffea402596fb) <br> [AWS - S3](https://medium.com/analytics-vidhya/amazon-s3-for-dummies-infinite-storage-on-the-cloud-cdc43da0c013) <br> [AWS - RDS](https://medium.com/edureka/rds-aws-tutorial-for-aws-solution-architects-eec7217774dd) <br> [AWS - Athena](https://medium.com/edureka/amazon-athena-tutorial-c7583053495f) <br> [AWS - ECR/ECS](https://blog.clairvoyantsoft.com/deploy-and-run-docker-images-on-aws-ecs-85a17a073281) <br> [AWS - Lambda](https://medium.com/swlh/everything-you-need-to-know-about-aws-lambda-e0b214224b0f) <br> [AWS - StepFunction](https://medium.com/b2w-engineering/step-functions-orquestrando-aws-lambdas-1d23cdaca633) <br> [AWS - IAM](https://medium.com/kernel-space/perfect-way-to-get-started-on-aws-iam-e1d66f63acd7) <br> [AWS - EC2](https://medium.com/edureka/aws-ec2-tutorial-16583cc7798e) <br> [AWS - EMR](https://medium.com/nerd-for-tech/aws-elastic-map-reduce-intro-55206fd47c85) |
 
 ***
-## 📃 Artigos
+## 📰 Artigos
 - :fire: [A Beginner’s Guide to Data Engineering — Part I](https://medium.com/@rchang/a-beginners-guide-to-data-engineering-part-i-4227c5c457d7)
 - :fire: [Data Engineering 101: From Batch Processing to Streaming](https://medium.com/better-programming/data-engineering-101-from-batch-processing-to-streaming-54f8c0da66fb)
 - :fire: [Implementing a Data Lake or Data Warehouse Architecture for Business Intelligence?](https://towardsdatascience.com/implementing-a-data-lake-architecture-for-business-intelligence-f2c99551db1a)
@@ -80,7 +80,7 @@ Habilidades mais específicas:
 
 
 ***
-## Cursos para fazer
+## 🎓 Cursos para fazer
 Alguns dos cursos que avaliei como benéficos para gastar meu $$$
 
 - [Formação Engenheiro de Dados: Domine Big Data!](https://www.udemy.com/course/engenheiro-de-dados/)
