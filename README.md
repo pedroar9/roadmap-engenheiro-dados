@@ -12,9 +12,9 @@ Sugestões são muito bem vindas!
 - [Roadmap de Engenharia de Dados](#roadmap-de-engenharia-de-dados)
   - [Tabela de Conteúdo](#tabela-de-conteúdo)
   - [Links e Dicas Úteis](#links-e-dicas-úteis)
-  - [Skills](#skills)
-  - [Artigos](#artigos)
-  - [Livros para ler](#livros-para-ler)
+  - [⚙️ Skills](#️-skills)
+  - [📃 Artigos](#-artigos)
+  - [📖 Livros para ler](#-livros-para-ler)
   - [Cursos para fazer](#cursos-para-fazer)
   - [📍 Onde me encontrar](#-onde-me-encontrar)
 
@@ -36,7 +36,7 @@ Infelizmente não existem tantos conteúdos em português sobre isso ainda, port
 Aproveite para exercitar sua capacidade de lidar com vários cenários de erro e criar ações para contorná-los.
 
 ***
-## Skills
+## ⚙️ Skills
 
 O básico para uso geral:
 
@@ -64,7 +64,7 @@ Habilidades mais específicas:
 | Cloud | AWS <br> Azure <br> GCP | [AWS - Fundamentos](https://medium.com/age-of-awareness/aws-fundamentals-beginners-guide-ffea402596fb) <br> [AWS - S3](https://medium.com/analytics-vidhya/amazon-s3-for-dummies-infinite-storage-on-the-cloud-cdc43da0c013) <br> [AWS - RDS](https://medium.com/edureka/rds-aws-tutorial-for-aws-solution-architects-eec7217774dd) <br> [AWS - Athena](https://medium.com/edureka/amazon-athena-tutorial-c7583053495f) <br> [AWS - ECR/ECS](https://blog.clairvoyantsoft.com/deploy-and-run-docker-images-on-aws-ecs-85a17a073281) <br> [AWS - Lambda](https://medium.com/swlh/everything-you-need-to-know-about-aws-lambda-e0b214224b0f) <br> [AWS - StepFunction](https://medium.com/b2w-engineering/step-functions-orquestrando-aws-lambdas-1d23cdaca633) <br> [AWS - IAM](https://medium.com/kernel-space/perfect-way-to-get-started-on-aws-iam-e1d66f63acd7) <br> [AWS - EC2](https://medium.com/edureka/aws-ec2-tutorial-16583cc7798e) <br> [AWS - EMR](https://medium.com/nerd-for-tech/aws-elastic-map-reduce-intro-55206fd47c85) |
 
 ***
-## Artigos
+## 📃 Artigos
 - :fire: [A Beginner’s Guide to Data Engineering — Part I](https://medium.com/@rchang/a-beginners-guide-to-data-engineering-part-i-4227c5c457d7)
 - :fire: [Data Engineering 101: From Batch Processing to Streaming](https://medium.com/better-programming/data-engineering-101-from-batch-processing-to-streaming-54f8c0da66fb)
 - :fire: [Implementing a Data Lake or Data Warehouse Architecture for Business Intelligence?](https://towardsdatascience.com/implementing-a-data-lake-architecture-for-business-intelligence-f2c99551db1a)
@@ -73,7 +73,7 @@ Habilidades mais específicas:
 - :fire: [Spark 101: Introdução ao framework de processamento de dados distribuídos](https://medium.com/gabriel-luz/spark-101-introdu%C3%A7%C3%A3o-ao-framework-de-processamento-de-dados-distribu%C3%ADdos-1f959e596024)
 
 ***
-## Livros para ler
+## 📖 Livros para ler
 - [The Data Warehouse Toolkit: The Definitive Guide to Dimensional Modeling](https://www.amazon.com.br/Data-Warehouse-Toolkit-Definitive-Dimensional/dp/1118530802/ref=asc_df_1118530802/?tag=googleshopp00-20&linkCode=df0&hvadid=379726160779&hvpos=&hvnetw=g&hvrand=10840528030872557247&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1031754&hvtargid=pla-396828635481&psc=1)
 - [Como Mentir com Estatística](https://www.amazon.com.br/Como-Mentir-Estat%C3%ADstica-Darrell-Huff/dp/858057952X/ref=sr_1_1?adgrpid=83840412449&dchild=1&gclid=CjwKCAiAqJn9BRB0EiwAJ1SztUFa3-B1ZfPfV-q9rjyzDoNLwoPF17GvS6hqgNrW9nnuLtLne7vJhBoCeDoQAvD_BwE&hvadid=425954614302&hvdev=c&hvlocphy=1031754&hvnetw=g&hvqmt=e&hvrand=11105997254867108473&hvtargid=kwd-362161445721&hydadcr=5658_11235231&keywords=como+mentir+com+estat%C3%ADstica&qid=1604763557&sr=8-1&tag=hydrbrgk-20)
 - [Data Architecture: A Primer for the Data Scientist: Big Data, Data Warehouse and Data Vault](https://www.amazon.com/Data-Architecture-Primer-Scientist-Warehouse/dp/012802044X/ref=as_li_ss_tl?s=books&ie=UTF8&qid=1528996327&sr=1-102&keywords=big+data&linkCode=sl1&tag=solutionsre04-20&linkId=52b933f8ec9b490c88e937aff44c7732)
