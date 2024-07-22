@@ -1,5 +1,5 @@
 <table align="center"><tr><td align="center" width="9999">
-<img src="https://github.com/SartMorgs/data-engineer-roadmap/blob/master/img/dataeng.jpg" align="center" width="400" alt="Project icon">
+<img src="/img/dataeng.jpg" align="center" width="400" alt="Project icon">
 
 # Roadmap de Engenharia de Dados
 
@@ -9,13 +9,13 @@ Sugestões são muito bem vindas!
 </td></tr></table>
 
 ## Tabela de Conteúdo
-* [Links e Dicas Úteis](#links-e-dicas-úteis)
-* [Skills](#skills)
-* [Artigos para ler](#artigos-para-ler)
-* [Livros para ler](#livros-para-ler)
-* [Cursos para fazer](#cursos-para-fazer)
-* [Contribuição](#contribuição)
-* [Meu Resultado](#meu-resultado)
+- [Roadmap de Engenharia de Dados](#roadmap-de-engenharia-de-dados)
+  - [Tabela de Conteúdo](#tabela-de-conteúdo)
+  - [Links e Dicas Úteis](#links-e-dicas-úteis)
+  - [Skills](#skills)
+  - [Artigos](#artigos)
+  - [Livros para ler](#livros-para-ler)
+  - [Cursos para fazer](#cursos-para-fazer)
 
 ***
 ## Links e Dicas Úteis
@@ -88,12 +88,4 @@ Alguns dos cursos que avaliei como benéficos para gastar meu $$$
 - [HashiCorp Certified: Terraform Associate 2020](https://www.udemy.com/course/terraform-beginner-to-advanced/)
 
 ***
-## Contribuição
-- Pull Request
-- Discussões em Issues
-- Divulgação
-- Demais [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/kamranahmedse.svg?style=social&label=%20%40sartor_morgana)](https://twitter.com/sartor_morgana)
 
-***
-## Meu Resultado
-Eventualmente, conforme eu for aprendendo e aplicando tudo que reuni aqui pretendo listar todos os repositórios e conteúdo que eu gerar a partir disso.
